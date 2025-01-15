@@ -1,0 +1,9 @@
+{
+	"name": "adf-nm-lab",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "55ad2cb5-4526-49d9-ba0b-4098327fca6e",
+		"tenantId": "c7db5234-eb19-42fd-8840-a85829ea4628"
+	}
+}
